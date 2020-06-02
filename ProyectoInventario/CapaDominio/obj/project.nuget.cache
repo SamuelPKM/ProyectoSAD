@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7HiTrFiUmyBbNBKzbjh1yOSySMsKW0kxcnb30s6GDbaAFQ6K186EZStrD05jvkay5yl0NfAsMJgQuUJNtgeVMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\OneDrive\\Documentos\\Visual Studio 2019\\ProyectoInventario\\CapaDominio\\CapaDominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
